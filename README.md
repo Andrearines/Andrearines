@@ -5,4 +5,4 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer web, I like the cofe
+I'm a full stack developer web 
