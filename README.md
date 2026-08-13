@@ -33,6 +33,6 @@ Hello ,my name is Andre ,i am fullstack dev web and mobil
 
 
 # GitHub Stats:
-[![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=Andrearines)](https://gitcity.natrajx.in/Andrearines)
+<a href="https://gitcity.natrajx.in/Andrearines"><img src="https://gitcity.natrajx.in/api/svg?u=Andrearines" alt="My GitCity Skyline" width="100%"></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
